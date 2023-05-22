@@ -1,3 +1,7 @@
 *Esta linha foi inserida na branch ramo1.
+<<<<<<< HEAD
 essa linha foi inserida no vs code
 essa linha vai criar um conflito local
+=======
+essa linha vai gerar um conflito
+>>>>>>> 05c650ca3332c9ed68a3b27a2d9aa694d3fc3f8a
